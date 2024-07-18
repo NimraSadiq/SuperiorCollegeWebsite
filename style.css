@@ -1,0 +1,35 @@
+.navbar{
+   border: 2px solid white;
+    border-radius: 20px;
+    color: #fff;
+    background-color: rgb(112, 187, 144);
+}
+
+.ulc{
+    display: inline;
+}
+.ulc:hover{
+    cursor: pointer;
+    color: black;
+}
+#Success{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#sb{
+    padding-right: 20px;
+    margin-right: 10px;
+    float: right;
+    cursor: auto;
+}
+#btn1{
+    float: right;
+    margin-right: 30px;
+    cursor: auto;
+    color: #fff;
+    background-color: black;
+}
+#btn1:hover{
+    color: black;
+    background-color: #fff;
+}
